@@ -3,11 +3,11 @@ date: "2016-05-05T21:48:51-07:00"
 title: About
 ---
 
-Muhammad Azani Hasibuan is a Ph.D. student at the University of Western Australia. He completed his master degree in Information Technology and his bachelor degree in Computer Science from the University of Indonesia. His main research interests centre on the intersection of data mining, online learning and self-regulated learning. His research project focuses on exploring the changing and development of students’ regulation in the online collaborative learning environment.
+Muhammad Azani Hasibuan is a Ph.D. researcher at the University of Western Australia. He completed his master degree in Information Technology and his bachelor degree in Computer Science from the University of Indonesia. His main research interests centre on the intersection of data mining, online learning and self-regulated learning. His research project focuses on exploring the changing and development of students' regulation in the online collaborative learning environment.
 
 ## Interests
 
-- Online collaborative learning (Collaboration analytics)
-- Dispositional learning analytics/ Educational Intelligence
-- Data mining
-- Human Computer Interaction
+-   Online collaborative learning (Collaboration analytics)
+-   Dispositional learning analytics/ Educational Intelligence
+-   Data mining
+-   Human Computer Interaction
