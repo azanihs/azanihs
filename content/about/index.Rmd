@@ -9,8 +9,8 @@ Muhammad Azani Hasibuan is a Ph.D. researcher at the University of Western Austr
 
 ## Interests
 
-- Online collaborative learning (Collaboration analytics)
+-   Online collaborative learning (Collaboration analytics)
 
-- Dispositional learning analytics/ Educational Intelligence
+-   Dispositional learning analytics/ Educational Intelligence
 
-- Data mining
+-   Data mining

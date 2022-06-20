@@ -20,6 +20,9 @@ menu:
       url: https://github.com/azanihs
     - name: Twitter
       url: https://twitter.com/azanihs
+    - name: Garden
+      url: /garden/
+      
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
