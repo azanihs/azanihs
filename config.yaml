@@ -1,8 +1,7 @@
-baseURL: 'https://www.example.com'
+baseURL: /
 languageCode: en-us
 title: My Digital Garden
 theme: digital-garden-theme
-themesdir: ../../
 copyright: Nigalya Ponya ©
 params:
   name: Muhammad Azani Hasibuan
