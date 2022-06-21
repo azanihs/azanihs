@@ -1,50 +1,56 @@
-baseurl: /
+baseURL: 'https://www.example.com'
 languageCode: en-us
-title: A Hugo website
-theme: digital-garden
-googleAnalytics: ''
-disqusShortname: ''
-ignoreFiles:
-  - \.Rmd$
-  - \.Rmarkdown$
-  - _cache$
-  - \.knit\.md$
-  - \.utf8\.md$
-permalinks:
-  post: /:year/:month/:day/:slug/
+title: My Digital Garden
+theme: hugo-digital-garden-theme
+themesdir: ../../
+copyright: Nigalya Ponya ©
+params:
+  name: Muhammad Azani Hasibuan
+  description: AzaNotes
+  initials: MAZ
+  googleAnalytics: ''
+  social:
+    - name: Twitter
+      link: '#'
+      icon: fab fa-twitter
+    - name: Github
+      link: '#'
+      icon: fab fa-github
+    - name: Medium
+      link: '#'
+      icon: fab fa-medium-m
+    - name: LinkedIn
+      link: '#'
+      icon: fab fa-linkedin-in
 menu:
   main:
-    - name: About
-      url: /about/
-    - name: GitHub
-      url: https://github.com/azanihs
-    - name: Twitter
-      url: https://twitter.com/azanihs
-    - name: Garden
+    - name: Digital Garden
       url: /garden/
-    - name: Project
+      weight: 1
+    - name: Projects
       url: /projects/
+      weight: 2
     - name: Library
       url: /library/
-      
-params:
-  MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
-  MathJaxVersion: 2.7.5
-  description: A website built through Hugo and blogdown.
-  favicon: favicon.ico
-  highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
-  highlightjsLang:
-    - r
-    - yaml
-  highlightjsTheme: github
-  highlightjsVersion: 9.12.0
-  logo:
-    alt: Logo
-    height: 50
-    url: logo.png
-    width: 50
+      weight: 3
+    - name: About
+      url: /about/
+      weight: 4
+taxonomies:
+  garden_tags: garden_tags
+  project_tags: project_tags
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
-      unsafe: yes
+      unsafe: true
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+  highlight:
+    style: monokailight

@@ -7,9 +7,9 @@ copyright = "Nigalya Ponya ©"
 
 
 [params]
-  name = "Nigalya Ponya"
-  description = "Red panda living in the eastern Himalayas."
-  initials = "NP"
+  name = "Muhammad Azani Hasibuan"
+  description = "AzaNotes"
+  initials = "MAZ"
   googleAnalytics = ""
 
   [[params.social]]
