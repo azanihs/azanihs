@@ -22,6 +22,10 @@ menu:
       url: https://twitter.com/azanihs
     - name: Garden
       url: /garden/
+    - name: Project
+      url: /projects/
+    - name: Library
+      url: /library/
       
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
