@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Collaboration analytics**
 
-- 📝 I regularly write articles on [azanihs.github.io](azanihs.github.io)
+- 📝 I regularly write articles on [azanihs.github.io](https://azanihs.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
